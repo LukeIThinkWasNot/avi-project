@@ -70,6 +70,10 @@ nav ul a:hover {
 	color: #0090b8;
 }
 
+img {
+	max-width: 80%;
+}
+
 nav ul a:visited {
 	color: #0090b8;
 }
